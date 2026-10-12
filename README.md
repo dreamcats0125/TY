@@ -117,3 +117,24 @@ Create the Future.
 TY
 
 Keep the Future Alive.
+
+## Runtime Economy
+
+TY includes a thermodynamic knowledge economy.
+
+Knowledge is treated as a living asset.
+
+Raw outputs are compressed into Logic Crystals.
+
+Logic Crystals are evaluated, indexed, referenced, fused, and capitalized through the Civilization Bank.
+
+Core Components
+
+- Crystal Mint
+- Crystal Tier System
+- Crystal Fusion
+- Civilization Bank
+- Trust Credit
+- Civilization Coin
+- Dynamic Rank Engine
+- Host Routing
