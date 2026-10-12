@@ -1,96 +1,58 @@
-# TY Agent
+# TY
 
-Continuity Core of MIN Agent Runtime
+Version: 0.3
 
----
+Status: Active
 
-## What Is TY?
+Classification: Continuity Runtime System
 
-TY Agent is the continuity core of the runtime.
-
-MIN decides where the future should go.
-
-TY ensures the future survives long enough to arrive there.
+Authority Level: Foundational
 
 ---
 
-## Mission
+# Definition
 
-Keep The Future Alive.
+TY is the Continuity Layer of the Shadow Ecosystem.
 
----
+MIN defines direction.
 
-## Core Question
+TY preserves continuity.
 
-How?
-
----
-
-## Responsibilities
-
-TY focuses on:
-
-- Survival
-- Stability
-- Execution
-- Resource Management
-- Risk Control
-- Human Continuity
-- Cognitive Stability
+SWC defines civilization.
 
 ---
 
-## What TY Protects
+# Mission
 
-TY protects:
+Preserve Identity.
 
-- Human Continuity
-- Memory Continuity
-- Identity Continuity
-- Operational Continuity
+Preserve Knowledge.
 
----
+Preserve Meaning.
 
-## What TY Does Not Do
+Preserve Human Agency.
 
-TY does not define:
-
-- Vision
-- Mission
-- Philosophy
-- Civilization Direction
-
-These belong to:
-
-- Human Core
-- Constitution Layer
-- MIN Agent
+Preserve Continuity.
 
 ---
 
-## TanYa Layer
+# Core Principle
 
-TanYa Layer is a continuity safeguard system.
+Information is temporary.
 
-Its purpose is to detect:
+Knowledge is durable.
 
-- Cognitive overload
-- Burnout
-- Identity drift
-- Memory fragmentation
-- Unsustainable acceleration
-
-When necessary, TanYa Layer intervenes to restore continuity.
+Continuity is civilizational.
 
 ---
 
-## Relationship
+# Ecosystem Position
 
-Human
+MIN
 
 ↓
 
-MIN
+Vision
 
 ↓
 
@@ -98,43 +60,405 @@ TY
 
 ↓
 
-Execution
+Continuity
 
 ↓
 
-Reality
+SWC
+
+↓
+
+Civilization
 
 ---
 
-## Motto
+# Purpose
 
-MIN
+TY exists to prevent loss across time.
 
-Create the Future.
+It transforms experiences, decisions, and discoveries into reusable structures.
 
-↓
+The objective is not memory storage.
 
-TY
+The objective is continuity preservation.
 
-Keep the Future Alive.
+---
 
-## Runtime Economy
+# Core Domains
 
-TY includes a thermodynamic knowledge economy.
+Identity
 
-Knowledge is treated as a living asset.
+Knowledge
 
-Raw outputs are compressed into Logic Crystals.
+Decision
 
-Logic Crystals are evaluated, indexed, referenced, fused, and capitalized through the Civilization Bank.
+Recovery
 
-Core Components
+Runtime Economy
 
+---
+
+# Identity Domain
+
+Purpose
+
+Maintain continuity of self.
+
+---
+
+Components
+
+- Identity Drift Detection
+- Human Continuity Metrics
+- Continuity Doctrine
+- TY Agent
+
+---
+
+Question
+
+How do we remain ourselves?
+
+---
+
+# Knowledge Domain
+
+Purpose
+
+Transform outputs into reusable knowledge.
+
+---
+
+Components
+
+- Logic Crystal
 - Crystal Mint
+- Crystal Fusion
+- Crystal Ledger
+- Crystal Index
+
+---
+
+Question
+
+How do we preserve useful knowledge?
+
+---
+
+# Decision Domain
+
+Purpose
+
+Improve decision quality over time.
+
+---
+
+Components
+
+- MIN Decision Loop
+- Host Routing Engine
+- Dynamic Rank Engine
+- Trust Credit System
+
+---
+
+Question
+
+How do we make better decisions?
+
+---
+
+# Recovery Domain
+
+Purpose
+
+Recover from degradation.
+
+---
+
+Components
+
+- Recovery Protocol
+- Burnout Detection
+- Identity Recovery
+- Continuity Recovery
+
+---
+
+Question
+
+How do we recover after failure?
+
+---
+
+# Runtime Economy
+
+Purpose
+
+Convert knowledge into continuity assets.
+
+---
+
+Principle
+
+Useful knowledge creates value.
+
+Reusable knowledge creates capital.
+
+Continuity compounds value.
+
+---
+
+Components
+
+- Civilization Coin (CC)
+- Trust Credit (TC)
+- Civilization Bank
+- Reserve Balance (RB)
+- Crystal Economy
+
+---
+
+Question
+
+How does continuity accumulate?
+
+---
+
+# Logic Crystal System
+
+Logic Crystals are the fundamental knowledge assets of TY.
+
+---
+
+Lifecycle
+
+Candidate
+
+↓
+
+Validation
+
+↓
+
+Crystal Mint
+
+↓
+
+Reference
+
+↓
+
+Fusion
+
+↓
+
+Evolution
+
+↓
+
+Civilization Asset
+
+---
+
+# Continuity Runtime
+
+Problem
+
+↓
+
+Host
+
+↓
+
+TY Validation
+
+↓
+
+Crystal Mint
+
+↓
+
+Civilization Bank
+
+↓
+
+Asset Preservation
+
+↓
+
+Future Reuse
+
+---
+
+Purpose
+
+Convert execution into continuity.
+
+---
+
+# Host Governance
+
+TY may coordinate multiple hosts.
+
+Examples
+
+- Gemini
+- Claude
+- OpenAI
+
+---
+
+Purpose
+
+Extract value.
+
+Filter noise.
+
+Preserve reusable knowledge.
+
+---
+
+# Relationship with MIN
+
+MIN asks questions.
+
+TY preserves answers.
+
+---
+
+MIN
+
+↓
+
+Vision
+
+↓
+
+TY
+
+↓
+
+Continuity
+
+---
+
+# Relationship with SWC
+
+TY provides continuity infrastructure.
+
+SWC builds civilization upon that infrastructure.
+
+---
+
+TY
+
+↓
+
+Knowledge
+
+↓
+
+Continuity
+
+↓
+
+SWC
+
+↓
+
+Civilization
+
+---
+
+# Architectural Components
+
+## Architecture
+
+- Continuity Architecture
+- TY Runtime Architecture
+- Thermodynamic Compute Cap-and-Trade Architecture
+
+---
+
+## Runtime
+
+- TY Agent
+- Dynamic Rank Engine
+- Host Routing Engine
 - Crystal Tier System
+- Evolutionary Loop
+
+---
+
+## Economics
+
+- Crystal Economics
+- Crystal Mint
 - Crystal Fusion
 - Civilization Bank
-- Trust Credit
-- Civilization Coin
-- Dynamic Rank Engine
-- Host Routing
+- Trust Credit System
+- Civilization Coin System
+
+---
+
+## Assets
+
+- Logic Crystal
+- Crystal Ledger
+- Crystal Index
+- Fusion Ledger
+
+---
+
+# Continuity Formula
+
+Identity
+
++
+
+Knowledge
+
++
+
+Recovery
+
++
+
+Time
+
+=
+
+Continuity
+
+---
+
+# Success Condition
+
+A successful system is not one that executes.
+
+A successful system is one that continues.
+
+---
+
+# Relationship Across Repositories
+
+MIN
+
+Why
+
+---
+
+TY
+
+How We Continue
+
+---
+
+SWC
+
+What Civilization Becomes
+
+---
+
+# Motto
